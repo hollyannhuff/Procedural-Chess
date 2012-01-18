@@ -1,0 +1,4 @@
+This is a school assignment in which we are to implement a procedural,
+console-based chess game. The game uses Smith notation to specify moves.
+However, none of the rules are enforced.
+It will also be able to read in a file consisting of moves in Smith notation.
