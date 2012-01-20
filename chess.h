@@ -4,6 +4,8 @@
 #include <iostream>
 #include <cstdlib>
 #include <string>
+#include <vector>
+#include <fstream>
 
 // Colors for the board: W_ON_W means white piece-white square, etc.
 #define W_ON_W "\E[31;47m"
