@@ -16,7 +16,9 @@
  *      Please describe briefly what was the most difficult part
  ************************************************************************/
 
-#include "chess.cpp"
+#include "interface.cpp"
+#include "file.cpp"
+#include "internals.cpp"
 
 /***********************************************************************
  * MAIN
