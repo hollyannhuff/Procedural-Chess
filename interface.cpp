@@ -1,5 +1,5 @@
 #include "chess.cpp"
-#include "chess.cpp"
+#include "chess.h"
 
 using namespace std;
 
